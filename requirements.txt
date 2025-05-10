@@ -1,7 +1,12 @@
 streamlit
 matplotlib
 seaborn
-urlextract
-wordcloud
 pandas
 emoji
+urlextract
+wordcloud
+requests
+transformers
+torch
+openai-whisper
+ffmpeg-python
