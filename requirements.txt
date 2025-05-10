@@ -8,5 +8,7 @@ wordcloud
 requests
 transformers
 torch
+speechrecognition
 openai-whisper
 ffmpeg-python
+
