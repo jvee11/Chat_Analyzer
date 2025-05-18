@@ -13,3 +13,4 @@ openai-whisper
 ffmpeg-python
 numpy
 scipy
+pydub
