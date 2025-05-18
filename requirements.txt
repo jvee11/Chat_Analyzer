@@ -11,4 +11,5 @@ torch
 speechrecognition
 openai-whisper
 ffmpeg-python
-
+numpy
+scipy
